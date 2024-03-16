@@ -1,8 +1,8 @@
-Question 25: Alien Colors #1: Imagine an alien was just shot down in a game. Assign 'green', 'yellow', or 'red' to a variable called alien_color.
-Explain & TIP: Use an if statement to check the alien's color. This introduces you to simple conditionals.
+Question 19: Dinner Guests: Use one of your programs from Exercises 14 through 18 to print a message indicating the number of people you are inviting to dinner.
+Explain & TIP: Arrays have a length property that tells you how many items are in the list. Use this to inform your guests how big the party will be.
 
-Question 26: Alien Colors #2: Choose a color for an alien, then write an if-else chain.
-Explain & TIP: Expanding on the previous exercise, if-else chains allow you to handle multiple conditions.
+Question 20: Think of something you could store in an array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
+Explain & TIP: Arrays are perfect for keeping a collection of similar items. Choose a theme you like and list several examples.
 
-Question 27: Alien Colors #3: Convert your if-else chain to handle three colors: green, yellow, red.
-Explain & TIP: This exercise introduces you to handling multiple specific conditions in an if-else chain.
+Question 21: Think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+Explain & TIP: Objects in TypeScript can store various related data about a single entity. Think of an object as a container for characteristics of something, like a book or a car.
