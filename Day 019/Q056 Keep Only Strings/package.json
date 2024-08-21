@@ -1,0 +1,12 @@
+{
+  "name": "q056-keep-only-strings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Keep Only Strings: Given a mix of different types of items, make a new list that has only the words."
+}

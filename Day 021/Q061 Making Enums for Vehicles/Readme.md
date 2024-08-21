@@ -1,0 +1,1 @@
+Making Enums for Vehicles: Lets create categories for vehicles like cars, trucks, and motorcycles using enums, and show one example.
