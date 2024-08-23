@@ -1,0 +1,3 @@
+Compound Assignment Operators: Use compound assignment operators to simplify arithmetic operations. Start with `x = 4` and perform a series of operations (addition, subtraction, multiplication, division) on `x` using compound operators.
+
+`Note: Compound assignment operators in TypeScript (and JavaScript) are shorthand operators that combine an arithmetic operation with an assignment. They allow you to update the value of a variable based on its current value in a more concise manner. `
