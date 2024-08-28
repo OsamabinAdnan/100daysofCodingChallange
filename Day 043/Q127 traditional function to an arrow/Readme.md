@@ -1,0 +1,1 @@
+Convert a traditional function expression to an arrow function.
