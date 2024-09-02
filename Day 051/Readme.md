@@ -12,3 +12,5 @@ Read the following article: [Top 10 Programming Tips For Beginners](https://www.
 8) *Enhance Your Problem-Solving Skills*
 9) *Divide Things into Smaller Parts*
 10) *Find a Perfect Mentor*
+
+Click on link to read more in detail
