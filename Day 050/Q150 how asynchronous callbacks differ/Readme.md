@@ -1,0 +1,1 @@
+Describe how asynchronous callbacks differ from synchronous code execution.
