@@ -8,7 +8,7 @@ Read the following Articles and Code along with it:
     Comments before and after scripts.
 3) *External scripts*
 
-**Variables**[Variables] (https://javascript.info/variables)
+**Variables** [Variables](https://javascript.info/variables)
 1) *A variable*
 2) *A real-life analogy*
 3) *Variable naming*
