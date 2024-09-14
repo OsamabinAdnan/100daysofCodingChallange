@@ -1,0 +1,12 @@
+{
+  "name": "day-074",
+  "version": "1.0.0",
+  "description": "**Day-74 Task:**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
